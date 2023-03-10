@@ -147,5 +147,6 @@ body {
     .apresentacao__imagem{
         width: auto;
         height: auto;
+        padding: 2% 10%;
     }
 }
